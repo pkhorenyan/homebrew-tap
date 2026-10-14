@@ -1,6 +1,6 @@
 cask "termstead" do
-  version "0.3.1"
-  sha256 "8bbbf0e9cdb8daa005a0dacdae8f8b06fd94a5d895aaa5a37acf96e6e7e0fb7f"
+  version "0.4.0"
+  sha256 "074d7b8bed402f7dde81aa8d4c1585c00976c857c611360512d9abce6fabd50b"
 
   url "https://github.com/pkhorenyan/termstead/releases/download/v#{version}/Termstead.dmg"
   name "Termstead"
