@@ -8,7 +8,7 @@ cask "termstead" do
   homepage "https://github.com/pkhorenyan/termstead"
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Termstead.app"
 
